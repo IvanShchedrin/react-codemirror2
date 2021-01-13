@@ -35,7 +35,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/scniro/react-codemirror2.git"
+    "url": "git+https://github.com/scniro/
+    -codemirror2.git"
   },
   "author": "scniro",
   "license": "MIT",
@@ -53,7 +54,7 @@
     "code"
   ],
   "peerDependencies": {
-    "react": ">=15.5 <=16.x",
+    "react": ">=15.5 <=17.x",
     "codemirror": "5.x"
   },
   "devDependencies": {
