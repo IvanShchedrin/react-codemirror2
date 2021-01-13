@@ -35,8 +35,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/scniro/
-    -codemirror2.git"
+    "url": "git+https://github.com/scniro/react-codemirror2.git"
   },
   "author": "scniro",
   "license": "MIT",
